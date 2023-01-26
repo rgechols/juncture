@@ -28,7 +28,7 @@ _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by D
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://commons.wikimedia.org/wiki/File:The_Garden_of_earthly_delights.jpg#/media/File:The_Garden_of_earthly_delights.jpg">
+       url="https://commons.wikimedia.org/wiki/File:The_Garden_of_earthly_delights.jpg">
 
 ## Map
 
